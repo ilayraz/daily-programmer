@@ -1,4 +1,4 @@
-# https://www.reddit.com/r/dailyprogrammer/comments/3twuwf/20151123_challenge_242_easy_funny_plant/
+# https://www.reddit.com/r/dailyprogrammer/comments/3twuwf/
 # Problem follows a bisection of Fibonacci seqence, A001906
 
 

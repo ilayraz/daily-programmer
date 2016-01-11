@@ -1,4 +1,4 @@
-# https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/
+# https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/
 # All functions expect there to be a text file with name 'timetable.txt' in the same directory folder as the script
 
 
