@@ -33,6 +33,7 @@ def findShortName(longN, length=2):
 def blurth(longN):
     return sum([len(allShorts(longN, i)) for i in range(len(longN))])
 
+
 def main():
     longN = input("Full element name?\n").strip().lower()
     short = input("Short element name?\n").strip().lower()
@@ -47,4 +48,6 @@ def main():
     print("\nChallange 2:", len(allShorts(longN)))
     print("\nChallange 3:", blurth(longN))
 
-main()
+
+if __name__ == '__main__':
+    main()
